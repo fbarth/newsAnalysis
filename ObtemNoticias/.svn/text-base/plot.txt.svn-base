@@ -1,0 +1,41 @@
+#
+# Script que gera o gráfico de notícias publicadas na internet.
+# Data: 06/Ago/2007
+# Autor: Fabrício J. Barth
+#
+set title "Notícias publicadas na Internet"
+#set xlabel "Tempo (Horas)"
+set xlabel "Tempo (Dias)"
+set ylabel "Quantidade (Notícias)"
+set key left top
+#set xtics 24
+#set xtics 48
+set xtics 5
+#set xrange [0:500]
+#plot "analiseProducao.txt" using 1:2 with lines t"Estadão"
+#rep "analiseProducao.txt" using 1:3 with lines t"Folha"
+#rep "analiseProducao.txt" using 1:4 with lines t"G1"
+#rep "analiseProducao.txt" using 1:5 with lines t"Globo Online"
+#rep "analiseProducao.txt" using 1:6 with lines t"Terra"
+#rep "analiseProducao.txt" using 1:7 with lines t"Último Segundo
+#rep "analiseProducao.txt" using 1:8 with lines t"Total"
+#plot "analiseProducao.txt" using ($1/2):2 with lines t"Estadão"
+#rep "analiseProducao.txt" using ($1/2):3 with lines t"Folha"
+#rep "analiseProducao.txt" using ($1/2):4 with lines t"G1"
+#rep "analiseProducao.txt" using ($1/2):5 with lines t"Globo Online"
+#rep "analiseProducao.txt" using ($1/2):6 with lines t"Terra"
+#rep "analiseProducao.txt" using ($1/2):7 with lines t"Último Segundo
+#rep "analiseProducao.txt" using ($1/2):8 with lines t"Total"
+plot "analiseProducao.txt" using ($1/48):2 with lines t"Estadão"
+rep "analiseProducao.txt" using ($1/48):3 with lines t"Folha"
+rep "analiseProducao.txt" using ($1/48):4 with lines t"G1"
+rep "analiseProducao.txt" using ($1/48):5 with lines t"Globo Online"
+rep "analiseProducao.txt" using ($1/48):6 with lines t"Terra"
+rep "analiseProducao.txt" using ($1/48):7 with lines t"Último Segundo
+rep "analiseProducao.txt" using ($1/48):8 with lines t"Total"
+set encoding iso_8859_1
+set term postscript eps color
+set output "noticias.eps"
+replot
+set terminal x11
+pause -1 "Fechar?"

@@ -1,0 +1,2 @@
+0,30 * * * * /home/fbarth/criaIndiceComVariasFontes.sh
+0,10,20,30,40,50 * * * * /home/fbarth/logs/executeLogsSemInteracao.sh

@@ -1,0 +1,2 @@
+http://www.clicrbs.com.br/diariocatarinense/jsp/rssfeed.jspx
+http://localhost/diario.xml

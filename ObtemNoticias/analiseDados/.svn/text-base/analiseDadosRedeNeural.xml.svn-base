@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<process version="4.0">
+
+  <operator name="Root" class="Process">
+      <description text="#ylt#table#ygt##ylt#tr#ygt##ylt#td#ygt#The ModelApplier operator is one of the most important RapidMiner operators.    It can be used to apply a previously learned model to (unseen) data.    #ylt#/td#ygt##ylt#td#ygt##ylt#icon#ygt#operators/24/model_applier #ylt#/icon#ygt##ylt#/td#ygt##ylt#/tr#ygt##ylt#/table#ygt##ylt#p#ygt#In this experiment we first load some training data and learn a decision tree model. This model is then applied to the test data set with help of  the model applier. You can add a breakpoint  after the learner operator (from the context menu or by double clicking) in order to inspect the learned model. In this case, you have to resume the experiment by clicking on the resume button. #ylt#/p#ygt#"/>
+      <operator name="ExcelExampleSource" class="ExcelExampleSource">
+          <parameter key="excel_file"	value="/home/fbarth/documentosJulho2007/analiseConteudoProduzidoEmJornaisAmpliada.xls"/>
+          <parameter key="first_row_as_names"	value="true"/>
+          <parameter key="label_column"	value="3"/>
+          <parameter key="sheet_number"	value="2"/>
+      </operator>
+      <operator name="NeuralNet" class="NeuralNet">
+          <parameter key="default_hidden_layer_size"	value="4"/>
+          <parameter key="default_number_of_hidden_layers"	value="2"/>
+          <list key="hidden_layer_types">
+          </list>
+          <parameter key="training_cycles"	value="20"/>
+      </operator>
+      <operator name="ExcelExampleSource (2)" class="ExcelExampleSource">
+          <parameter key="excel_file"	value="/home/fbarth/documentosJulho2007/analiseConteudoProduzidoEmJornaisAmpliada.xls"/>
+          <parameter key="first_row_as_names"	value="true"/>
+          <parameter key="label_column"	value="3"/>
+          <parameter key="sheet_number"	value="3"/>
+      </operator>
+      <operator name="ModelApplier" class="ModelApplier">
+          <list key="application_parameters">
+          </list>
+          <parameter key="keep_model"	value="true"/>
+      </operator>
+  </operator>
+
+</process>

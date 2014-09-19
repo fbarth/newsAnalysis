@@ -1,0 +1,4 @@
+http://ultimosegundo.ig.com.br/rss.xml
+http://ultimosegundo.ig.com.br/bbc/rss.xml
+http://ultimosegundo.ig.com.br/new_york_times/rss.xml
+http://ultimosegundo.ig.com.br/mundo/rss.xml

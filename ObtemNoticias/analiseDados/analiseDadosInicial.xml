@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<process version="4.0">
+
+  <operator name="Root" class="Process">
+      <operator name="ExcelExampleSource" class="ExcelExampleSource">
+          <parameter key="datamanagement"	value="long_array"/>
+          <parameter key="excel_file"	value="/home/fbarth/documentosJulho2007/analiseConteudoProduzidoEmJornaisAmpliada.xls"/>
+          <parameter key="first_row_as_names"	value="true"/>
+          <parameter key="label_column"	value="3"/>
+          <parameter key="sheet_number"	value="2"/>
+      </operator>
+      <operator name="NeuralNet" class="NeuralNet">
+          <list key="hidden_layer_types">
+          </list>
+          <parameter key="keep_example_set"	value="true"/>
+          <parameter key="output_layer_type"	value="linear"/>
+      </operator>
+  </operator>
+
+</process>

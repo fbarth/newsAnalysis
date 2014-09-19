@@ -1,0 +1,343 @@
+Seg Jan 19 11:44:49 BRST 2009
+
+Seg Jan 19 13:55:31 BRST 2009
+
+  60   60 7320 nutchEstadao.txt
+
+  135   135 16200 nutchFolha.txt
+
+  600   600 70200 nutchG1.txt
+
+  70   70 8820 nutchGloboOnline.txt
+
+  120   120 14400 nutchTerra.txt
+
+   80    80 10240 nutchUltimoSegundo.txt
+
+  41   41 4879 nutchOdia.txt
+
+  100   100 13200 nutchDiarioCatarinense.txt
+
+  30   30 3840 nutchCorreioBrasil.txt
+
+0 0 0 nutchGenericas.txt
+
+
+Seg Jan 19 14:21:01 BRST 2009
+
+Seg Jan 19 14:32:09 BRST 2009
+
+   91    91 11102 nutchEstadao.txt
+
+  220   220 26400 nutchFolha.txt
+
+  635   635 74295 nutchG1.txt
+
+   95    95 11970 nutchGloboOnline.txt
+
+  147   147 17640 nutchTerra.txt
+
+  123   123 15744 nutchUltimoSegundo.txt
+
+  50   50 5950 nutchOdia.txt
+
+  115   115 15180 nutchDiarioCatarinense.txt
+
+  36   36 4608 nutchCorreioBrasil.txt
+
+0 0 0 nutchGenericas.txt
+
+
+Seg Jan 19 15:19:14 BRST 2009
+
+Seg Jan 19 17:31:28 BRST 2009
+
+  51   51 6222 nutchEstadao.txt
+
+  135   135 16200 nutchFolha.txt
+
+  600   600 70200 nutchG1.txt
+
+  70   70 8820 nutchGloboOnline.txt
+
+  120   120 14400 nutchTerra.txt
+
+   80    80 10240 nutchUltimoSegundo.txt
+
+  130   130 15470 nutchOdia.txt
+
+  151   151 19932 nutchDiarioCatarinense.txt
+
+  149   149 19072 nutchCorreioBrasil.txt
+
+  1249   1249 154876 nutchGenericas.txt
+
+
+Seg Jan 19 17:54:58 BRST 2009
+
+Seg Jan 19 18:30:13 BRST 2009
+
+  56   56 6832 nutchEstadao.txt
+
+  135   135 16200 nutchFolha.txt
+
+  600   600 70200 nutchG1.txt
+
+  70   70 8820 nutchGloboOnline.txt
+
+  120   120 14400 nutchTerra.txt
+
+   80    80 10240 nutchUltimoSegundo.txt
+
+  134   134 15946 nutchOdia.txt
+
+  151   151 19932 nutchDiarioCatarinense.txt
+
+  113   113 14464 nutchCorreioBrasil.txt
+
+  1219   1219 151156 nutchGenericas.txt
+
+
+Seg Jan 19 19:13:43 BRST 2009
+
+Seg Jan 19 19:22:57 BRST 2009
+
+  56   56 6832 nutchEstadao.txt
+
+  270   270 32400 nutchFolha.txt
+
+  600   600 70200 nutchG1.txt
+
+  70   70 8820 nutchGloboOnline.txt
+
+  120   120 14400 nutchTerra.txt
+
+   80    80 10240 nutchUltimoSegundo.txt
+
+  141   141 16779 nutchOdia.txt
+
+  151   151 19932 nutchDiarioCatarinense.txt
+
+  113   113 14464 nutchCorreioBrasil.txt
+
+
+Ter Jan 20 13:32:50 BRST 2009
+
+Ter Jan 20 14:18:52 BRST 2009
+
+  107   107 13054 nutchEstadao.txt
+
+  386   386 46320 nutchFolha.txt
+
+  762   762 89154 nutchG1.txt
+
+  125   125 15750 nutchGloboOnline.txt
+
+  192   192 23040 nutchTerra.txt
+
+  144   144 18432 nutchUltimoSegundo.txt
+
+  202   202 24038 nutchOdia.txt
+
+  251   251 33132 nutchDiarioCatarinense.txt
+
+  139   139 17792 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+0 0 0 nutchAncelmoGois.txt
+
+
+Qui Jan 22 11:23:52 BRST 2009
+
+Qui Jan 22 11:57:18 BRST 2009
+
+  157   157 19154 nutchEstadao.txt
+
+  509   509 61080 nutchFolha.txt
+
+  1065   1065 124605 nutchG1.txt
+
+  185   185 23310 nutchGloboOnline.txt
+
+  281   281 33720 nutchTerra.txt
+
+  221   221 28288 nutchUltimoSegundo.txt
+
+  256   256 30464 nutchOdia.txt
+
+  351   351 46332 nutchDiarioCatarinense.txt
+
+  169   169 21632 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+0 0 0 nutchAncelmoGois.txt
+
+
+Qui Jan 22 13:55:49 BRST 2009
+
+Qui Jan 22 13:55:59 BRST 2009
+
+  157   157 19154 nutchEstadao.txt
+
+  509   509 61080 nutchFolha.txt
+
+  1065   1065 124605 nutchG1.txt
+
+  185   185 23310 nutchGloboOnline.txt
+
+  281   281 33720 nutchTerra.txt
+
+  221   221 28288 nutchUltimoSegundo.txt
+
+  256   256 30464 nutchOdia.txt
+
+  351   351 46332 nutchDiarioCatarinense.txt
+
+  169   169 21632 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+0 0 0 nutchAncelmoGois.txt
+
+
+Qui Jan 22 13:56:12 BRST 2009
+
+Qui Jan 22 13:56:13 BRST 2009
+
+  157   157 19154 nutchEstadao.txt
+
+  509   509 61080 nutchFolha.txt
+
+  1065   1065 124605 nutchG1.txt
+
+  185   185 23310 nutchGloboOnline.txt
+
+  281   281 33720 nutchTerra.txt
+
+  221   221 28288 nutchUltimoSegundo.txt
+
+  256   256 30464 nutchOdia.txt
+
+  351   351 46332 nutchDiarioCatarinense.txt
+
+  169   169 21632 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+0 0 0 nutchAncelmoGois.txt
+
+
+Qui Jan 22 14:16:59 BRST 2009
+
+Qui Jan 22 15:23:15 BRST 2009
+
+Qui Jan 22 15:29:49 BRST 2009
+
+  188   188 22936 nutchEstadao.txt
+
+  597   597 71640 nutchFolha.txt
+
+  1111   1111 129987 nutchG1.txt
+
+  225   225 28350 nutchGloboOnline.txt
+
+  320   320 38400 nutchTerra.txt
+
+  263   263 33664 nutchUltimoSegundo.txt
+
+  274   274 32606 nutchOdia.txt
+
+  371   371 48972 nutchDiarioCatarinense.txt
+
+  177   177 22656 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+  11   11 1386 nutchAncelmoGois.txt
+
+
+Qui Jan 22 19:34:28 BRST 2009
+
+Qui Jan 22 19:40:54 BRST 2009
+
+  229   229 27938 nutchEstadao.txt
+
+  691   691 82920 nutchFolha.txt
+
+  1171   1171 137007 nutchG1.txt
+
+  281   281 35406 nutchGloboOnline.txt
+
+  372   372 44640 nutchTerra.txt
+
+  311   311 39808 nutchUltimoSegundo.txt
+
+  305   305 36295 nutchOdia.txt
+
+  416   416 54912 nutchDiarioCatarinense.txt
+
+  182   182 23296 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+  12   12 1512 nutchAncelmoGois.txt
+
+
+Seg Jan 26 10:44:46 BRST 2009
+
+Seg Jan 26 11:37:16 BRST 2009
+
+  284   284 34648 nutchEstadao.txt
+
+  820   820 98400 nutchFolha.txt
+
+  1485   1485 173745 nutchG1.txt
+
+  344   344 43344 nutchGloboOnline.txt
+
+  466   466 55920 nutchTerra.txt
+
+  381   381 48768 nutchUltimoSegundo.txt
+
+  340   340 40460 nutchOdia.txt
+
+  516   516 68112 nutchDiarioCatarinense.txt
+
+  212   212 27136 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+  22   22 2772 nutchAncelmoGois.txt
+
+
+Ter Jan 27 11:09:32 BRST 2009
+
+Seg Fev  2 17:17:50 BRST 2009
+
+Seg Fev  2 18:11:26 BRST 2009
+
+  398   398 48556 nutchEstadao.txt
+
+  1058   1058 126960 nutchFolha.txt
+
+  1928   1928 225576 nutchG1.txt
+
+  414   414 52164 nutchGloboOnline.txt
+
+  573   573 68760 nutchTerra.txt
+
+  461   461 59008 nutchUltimoSegundo.txt
+
+  443   443 52717 nutchOdia.txt
+
+  616   616 81312 nutchDiarioCatarinense.txt
+
+  242   242 30976 nutchCorreioBrasil.txt
+
+0 0 0 nutchClaudioHumberto.txt
+
+  32   32 4032 nutchAncelmoGois.txt
+
+

@@ -1,0 +1,33 @@
+#
+# Desenha o gráfico da relação do horário, dia, com a quantida de notícias
+# produzidas.
+#
+# Autor: Fabrício J. Barth
+# Data: 06/Ago/2007
+#
+
+# Configuração básica
+reset
+set grid
+set xtics 2
+set ytics 3
+set ztics 100
+set title "Relação Horário x Dia x Quantidade de Notícias Produzidas"
+set xlabel "Horário"
+set ylabel "Dia"
+set zlabel "Notícias produzidas"
+
+# Configuração do plano
+set hidden3d
+set view 65,35,1,1
+set style data points
+set dgrid3d 30,30,2
+#set dgrid3d 90,90,6
+set xrange [0:22]
+set pm3d at b
+splot 'analiseProducao_2horas.txt' using ($1):($2):($3) t"" with lines
+#set terminal png
+#set output "notic_hor_dia_2.png"
+#replot
+#set terminal x11
+pause -1 "Fechar?"

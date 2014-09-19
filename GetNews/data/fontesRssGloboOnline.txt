@@ -1,0 +1,7 @@
+http://oglobo.globo.com/rss/plantaomundo.xml
+http://oglobo.globo.com/rss/plantaorio.xml
+http://oglobo.globo.com/rss/plantaoeconomia.xml
+http://oglobo.globo.com/rss/plantaosaopaulo.xml
+http://oglobo.globo.com/rss/plantaopais.xml
+http://oglobo.globo.com/rss/plantaoeducacao.xml
+http://oglobo.globo.com/rss/plantaociencia.xml

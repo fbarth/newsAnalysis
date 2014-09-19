@@ -1,0 +1,10 @@
+http://www.estadao.com.br/rss/cidades.xml
+http://www.estadao.com.br/rss/nacional.xml
+http://www.estadao.com.br/rss/mundo.xml
+http://www.estadao.com.br/rss/arteelazer.xml
+http://www.estadao.com.br/rss/ciencias.xml
+http://www.estadao.com.br/rss/educacao.xml
+http://www.estadao.com.br/rss/esportes.xml
+http://www.estadao.com.br/rss/economia.xml
+http://www.estadao.com.br/rss/mundo.xml
+http://www.estadao.com.br/rss/tecnologia.xml
