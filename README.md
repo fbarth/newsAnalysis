@@ -13,3 +13,5 @@ produzidas pelas fontes jornalísticas, por exemplo, se dado um evento
 importante será que o padrão de notícias produzidas é alterado?
 
 2. Criar um índece único de notícias produzidas na Internet.
+
+![](img/notic_hor_dia_2.png)
